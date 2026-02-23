@@ -4,6 +4,7 @@
 // Description: The samples are custom designs with OpenMPT, the synth-plugin Vital and/or recordings
 // License: Creative Commons CC-BY, I. Wüst (@asikwus)
 
+// <master> is commented out because this file is included.  To use it standalone, uncomment it.
 //<master>
 master_volume=-3.5
 fileg_decay=32
